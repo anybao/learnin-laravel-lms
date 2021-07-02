@@ -1,0 +1,4 @@
+<meta property="og:description"        content="Xem hàng chục bài học mới được cập nhật hàng tuần về tất cả những kĩ năng làm việc, học tập, tin học văn phòng, sử dụng công cụ miễn phí của Google, Microsoft Office, Tiếng Anh để tăng hiệu quả công việc của bạn trong thời đại công nghệ 4.0" />
+<meta property="og:image"              content="{{ asset('images/fb.jpg') }}" />
+<meta name="description" content="Hàng chục bài học mới được cập nhật hàng tuần về tất cả những kĩ năng làm việc, học tập cần thiết cho bạn trong thời đại công nghệ 4.0 ">
+<meta name="keywords" content="Xem hàng chục bài học mới được cập nhật hàng tuần về tất cả những kĩ năng làm việc, học tập, tin học văn phòng, sử dụng công cụ miễn phí của Google, Microsoft Office, Tiếng Anh để tăng hiệu quả công việc của bạn trong thời đại công nghệ 4.0">

@@ -1,0 +1,11 @@
+deploy:
+  script:
+    - cd /var/www/html/live/daotaovanphong.com
+    - pwd
+    - whoami
+    - git pull origin master
+    - composer install
+    - php artisan cache:clear
+    - php artisan migrate
+  only:
+    - master
